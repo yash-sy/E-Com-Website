@@ -4,7 +4,7 @@ const footerHTML = `
       <div class="content_1">
         <img src="./images/logo.png" alt="logo" />
         <p>
-          Welcome to Thapa EcomStore, <br />
+          Welcome to Happy EcomStore, <br />
           your ultimate destination for
           <br />
           cutting-edge gadgets!
@@ -39,11 +39,7 @@ const footerHTML = `
         <hr />
       </div>
     </div>
-    <div class="f-design">
-      <div class="f-design-txt">
-        <p>Design and Code by Thapa Technical</p>
-      </div>
-    </div>
+    
   </footer>`;
 
 const footerElem = document.querySelector(".section-footer");
